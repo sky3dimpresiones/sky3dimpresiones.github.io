@@ -1,0 +1,111 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv environment variables
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Optional: local coverage reports
+coverage/
+
+# Optional: local history
+.history/
+
+# Optional: Windows system files
+Thumbs.db
+
+# Optional: IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# GitHub Pages artifacts (if any)
+.github/
+
+# Optional: local test reports
+*.log
+
+# Optional: local npm cache
+.npm/
+
+# Optional: parcel cache
+.cache/
+
+# Optional: next.js build output
+.next/
+
+# Optional: Svelte build output
+.svelte-kit/
+
+# Optional: Storybook build output
+storybook-static/
+
+# Optional: temporary files
+*.tmp
+*.temp
+
+# Optional: backup files
+*.bak
+*.old
+
+# Optional: local envrc
+.envrc
+
+# Optional: local Python cache
+__pycache__/
+*.pyc
+
+# Optional: local JetBrains IDE files
+.idea/
+
+# Optional: local test snapshots
+*.snap
+
+# Optional: local Cypress files
+cypress/videos/
+cypress/screenshots/
+
+# Optional: local Playwright files
+playwright-report/
+
+# Optional: local coverage files
+coverage/
+
+# Optional: local output files
+output/
+
+# Optional: local temp files
+*.tmp
+*.temp
+
+# Optional: local backup files
+*.bak
+*.old
+
+# Optional: local envrc
+.envrc
+
+# Optional: local Python cache
+__pycache__/
+*.pyc
