@@ -40,9 +40,6 @@ Thumbs.db
 *.sln
 *.sw?
 
-# GitHub Pages artifacts (if any)
-.github/
-
 # Optional: local test reports
 *.log
 
